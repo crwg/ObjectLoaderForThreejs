@@ -17,7 +17,7 @@
 
 ## 📦 Installation
 
-1.  Download the latest release from [ObjectLoaderForThreejs](https://github.com/crwg/ObjectLoaderForThreejs).
+1.  Download the latest release from [ObjectLoaderForThreejs](https://github.com/crwg/ObjectLoaderForThreejs/releases/tag/release).
 2.  Open Blender → `Edit` → `Preferences` → `Add-ons`.
 3.  Click `Install...`, select the `.zip` file, and enable **ObjectLoader**.
 

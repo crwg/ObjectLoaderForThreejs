@@ -1,4 +1,4 @@
-# Three.js ObjectLoader plugin for Blender
+# Three.js ObjectLoader Import/Export Blender plugin
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Blender](https://img.shields.io/badge/Blender-3.x%20|%204.x-orange.svg)](https://www.blender.org/)

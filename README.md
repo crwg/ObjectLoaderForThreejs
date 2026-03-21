@@ -34,6 +34,7 @@
 1.  `File` → `Import` → `Three.js JSON (.json)`.
 2.  Select file → Click `Import`.
 
+## ⭐ Support the Project
 ## 📬 Stay Updated
 
 Found this useful? [**Star the repo**](https://github.com/crwg/ObjectLoaderForThreejs) to support development and get notified about new releases.

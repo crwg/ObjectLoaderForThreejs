@@ -34,6 +34,10 @@
 1.  `File` → `Import` → `Three.js JSON (.json)`.
 2.  Select file → Click `Import`.
 
+## 📬 Stay Updated
+
+Found this useful? [**Star the repo**](https://github.com/crwg/ObjectLoaderForThreejs) to support development and get notified about new releases.
+
 ## ⚙️ Technical Specifications
 
 -   **Format:** Three.js JSON Object Scene Format (Version 4+).

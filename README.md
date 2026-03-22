@@ -4,7 +4,7 @@
 [![Blender](https://img.shields.io/badge/Blender-4.2%20--%205.x-orange.svg)](https://www.blender.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-JSON%20Format%204+-black.svg)](https://threejs.org/)
 
-![Logo](logo.png)
+<img src="logo.png" width="50%" />
 
 > **Direct JSON mesh exchange between Blender and Three.js.**  
 > Optimized for geometry fidelity and workflow efficiency.

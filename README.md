@@ -51,8 +51,3 @@ Scene graph completion is community-driven. Feel free to open Issues or PRs.
 
 [![View Issues](https://img.shields.io/badge/View-Issues-red.svg)](https://github.com/crwg/ObjectLoaderForThreejs/issues)
 [![Contribute](https://img.shields.io/badge/Contribute-PR-green.svg)](https://github.com/crwg/ObjectLoaderForThreejs/pulls)
-
----
-
-**Author:** [crwg](https://github.com/crwg)  
-**Repository:** `ObjectLoaderForThreejs`

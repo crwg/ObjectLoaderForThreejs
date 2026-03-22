@@ -6,7 +6,7 @@
 
 > **Direct JSON mesh exchange between Blender and Three.js.**  
 > Optimized for geometry fidelity and workflow efficiency.
-
+![Logo](logo.png)
 ## ⚡ Capabilities
 
 | Component | Support | Details |

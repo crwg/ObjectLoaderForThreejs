@@ -1,7 +1,7 @@
 # Three.js ObjectLoader Import/Export Blender plugin
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Blender](https://img.shields.io/badge/Blender-3.0%20--%204.x-orange.svg)](https://www.blender.org/)
+[![Blender](https://img.shields.io/badge/Blender-4.2%20--%205.x-orange.svg)](https://www.blender.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-JSON%20Format%204+-black.svg)](https://threejs.org/)
 
 > **Direct JSON mesh exchange between Blender and Three.js.**  
